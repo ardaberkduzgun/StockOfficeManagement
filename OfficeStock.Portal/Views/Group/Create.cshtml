@@ -1,0 +1,43 @@
+﻿@model OfficeStock.Entity.Group
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Grup Oluşturma</h2>
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        
+        <hr /> 
+        <div class="form-group">
+            <label for="Name" class="control-label col-md-2">Grup İsmi</label>
+            <div class="col-md-10">
+                <input type="text" name="Name" class="form-control" />
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="GroupCode" class="control-label col-md-2">Grup Kodu</label>
+            <div class="col-md-10">
+                <input tpye="text" name="GroupCode" class="form-control">
+            </div>
+        </div>
+
+     
+
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Ekle" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Listeye Geri Dön", "Index")
+</div>

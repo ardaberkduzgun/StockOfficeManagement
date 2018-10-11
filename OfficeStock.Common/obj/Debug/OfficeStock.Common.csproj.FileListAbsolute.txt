@@ -1,0 +1,50 @@
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Common\bin\Debug\OfficeStock.Common.dll.config
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Common\bin\Debug\OfficeStock.Common.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Common\bin\Debug\OfficeStock.Common.pdb
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Common\bin\Debug\EntityFramework.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Common\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Common\bin\Debug\EntityFramework.xml
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Common\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Common\obj\Debug\OfficeStock.Common.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Common\obj\Debug\OfficeStock.Common.pdb
+c:\Users\ardaberk.duzgun\Documents\Visual Studio 2015\Projects\OfficeStockManagement\OfficeStock.Common\bin\Debug\LinqKit.EntityFramework.dll
+c:\Users\ardaberk.duzgun\Documents\Visual Studio 2015\Projects\OfficeStockManagement\OfficeStock.Common\bin\Debug\LinqKit.EntityFramework.xml
+C:\Users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Common\obj\Debug\OfficeStock.Common.csprojResolveAssemblyReference.cache
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Common\bin\Debug\OfficeStock.Common.dll.config
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Common\bin\Debug\OfficeStock.Common.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Common\bin\Debug\OfficeStock.Common.pdb
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Common\bin\Debug\EntityFramework.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Common\bin\Debug\LinqKit.EntityFramework.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Common\bin\Debug\EntityFramework.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Common\bin\Debug\LinqKit.EntityFramework.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Common\obj\Debug\OfficeStock.Common.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Common\obj\Debug\OfficeStock.Common.pdb
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Common\obj\Debug\OfficeStock.Common.csprojResolveAssemblyReference.cache
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Common\bin\Debug\OfficeStock.Common.dll.config
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Common\bin\Debug\OfficeStock.Common.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Common\bin\Debug\OfficeStock.Common.pdb
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Common\bin\Debug\EntityFramework.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Common\bin\Debug\LinqKit.EntityFramework.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Common\bin\Debug\EntityFramework.xml
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Common\bin\Debug\LinqKit.EntityFramework.xml
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Common\obj\Debug\OfficeStock.Common.csprojResolveAssemblyReference.cache
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Common\obj\Debug\OfficeStock.Common.csproj.CoreCompileInputs.cache
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Common\obj\Debug\OfficeStock.Common.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Common\obj\Debug\OfficeStock.Common.pdb
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Common\bin\Debug\OfficeStock.Common.dll.config
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Common\bin\Debug\OfficeStock.Common.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Common\bin\Debug\OfficeStock.Common.pdb
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Common\bin\Debug\EntityFramework.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Common\bin\Debug\LinqKit.EntityFramework.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Common\bin\Debug\EntityFramework.xml
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Common\bin\Debug\LinqKit.EntityFramework.xml
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Common\obj\Debug\OfficeStock.Common.csprojResolveAssemblyReference.cache
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Common\obj\Debug\OfficeStock.Common.csproj.CoreCompileInputs.cache
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Common\obj\Debug\OfficeStock.Common.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Common\obj\Debug\OfficeStock.Common.pdb

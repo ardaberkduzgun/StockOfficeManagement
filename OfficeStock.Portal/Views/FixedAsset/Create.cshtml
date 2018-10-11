@@ -1,0 +1,149 @@
+﻿@model OfficeStock.Entity.FixedAsset
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script src="~/Scripts/lokasyonjs.js"></script>
+<script src="~/Scripts/jquery-3.0.0.js"></script>
+<script src="/Scripts/jstree.js"></script>
+
+<h2>Sabit Kıymet Oluştur</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            <label class="control-label col-md-2" for="group_Name">Grup</label>
+            <div class="col-md-10">
+                <select id="ddlGroup" name="GroupId" class="form-control"></select>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="OfficeStockNo" class="control-label col-md-2">Stok Numarası</label>
+            <div class="col-md-10">
+                <input type="text" name="OfficeStockNo" class="form-control" />
+
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="Description" class="control-label col-md-2">Tanım</label>
+            <div class="col-md-10">
+                <input type="text" name="Description" class="form-control" />
+
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="UsageStartDate" class="control-label col-md-2">Kullanıma Başlangıç Tarihi</label>
+            <div class="col-md-10">
+                <input type="date" name="UsageStartDate" class="form-control" />
+
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="ProcurementDate" class="control-label col-md-2">T Tarihi</label>
+            <div class="col-md-10">
+                <input type="date" name="ProcurementDate" class="form-control" />
+
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="Value" class="control-lavel col-md-2">Değer</label>
+            <div class="col-md-10">
+                <input type="number" name="Value" class="form-control" />
+
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="control-label col-md-2" for="location_Name">Lokasyon</label>
+            <div class="col-md-10">
+                <input type="hidden" name="LocationId" id="hdnLocationId" />
+                <div id="divLocationTree" class="tree-demo jstree jstree-2 jstree-default" role="tree">
+                </div>
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Ekle" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Listeye Geri Dön", "Index")
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        FillGroup();
+        LocationTreeLoad();
+    });
+
+    function FillLocation() {
+        Ajax.Get('/FixedAsset/GetAllLocations', null, function (result) {
+            $("#ddlLocation option").remove();
+            $.each(result, function (index, data) {
+                $("#ddlLocation").append("<option value=" + data.Id + ">" + data.Name + "</option>");
+            });
+        });
+    }
+    function FillGroup() {
+        Ajax.Get('/FixedAsset/GetAllGroups', null, function (result) {
+            $("#ddlGroup option").remove();
+            $.each(result, function (index, data) {
+                $("#ddlGroup").append("<option value=" + data.Id + ">" + data.Name + "</option>");
+            });
+        });
+    }
+
+    
+    function LocationTreeLoad() {
+        $tree = $("#divLocationTree").on('changed.jstree', function (e, data) {
+            $("#hdnLocationId").val(data.node.id);
+        }).jstree({
+            "core": {
+                "multiple": false,
+                "themes": { "responsive": false },
+                "check_callback": true,
+                "data": function (node, cb) {
+                    Ajax.Get('/FixedAsset/GetLocationsByParentId', { parentId: (node.id === "#" ? null : node.id) }, function (result) {
+                        var $data = [];
+                        if (result != null && result.length > 0) {
+                            $.each(result, function (i, item) {
+                                $data.push({
+                                    id: item.Id,
+                                    text: item.Name,
+                                    children: item.HasChild
+                                });
+                            });
+                        };
+                        cb($data);
+                    });
+                }
+            },
+            "types": {
+                "default": {
+                    "icon": "fa fa-folder icon-state-warning icon-lg"
+                },
+                "file": {
+                    "icon": "fa fa-file icon-state-warning icon-lg"
+                }
+            },
+            "plugins": ["dnd", "types"]
+        });
+    };
+
+</script>

@@ -1,0 +1,442 @@
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\ApplicationInsights.config
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\csc.exe
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\vbc.exe
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\VBCSCompiler.exe
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Portal.dll.config
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Portal.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Portal.pdb
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Antlr3.Runtime.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\EntityFramework.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\EntityFramework.SqlServer.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.Web.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.WindowsServer.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.ApplicationInsights.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.Google.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Newtonsoft.Json.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Owin.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.Helpers.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.Mvc.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.Optimization.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.Razor.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.WebPages.Deployment.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.WebPages.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.WebPages.Razor.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\WebGrease.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.Web.xml
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.WindowsServer.xml
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.Helpers.xml
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.Mvc.xml
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.Optimization.xml
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.Razor.xml
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.WebPages.xml
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.WebPages.Deployment.xml
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.WebPages.Razor.xml
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Antlr3.Runtime.pdb
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Newtonsoft.Json.xml
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\EntityFramework.xml
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\EntityFramework.SqlServer.xml
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.xml
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.xml
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.Google.xml
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\obj\Debug\OfficeStock.Portal.csprojResolveAssemblyReference.cache
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\obj\Debug\OfficeStock.Portal.dll
+c:\users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\obj\Debug\OfficeStock.Portal.pdb
+c:\Users\ardaberk.duzgun\Documents\Visual Studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\LinqKit.EntityFramework.dll
+c:\Users\ardaberk.duzgun\Documents\Visual Studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\LinqKit.EntityFramework.xml
+C:\Users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Entity.dll
+C:\Users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Common.dll
+C:\Users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Entity.pdb
+C:\Users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Common.pdb
+C:\Users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Bll.dll
+C:\Users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Dal.dll
+C:\Users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Bll.pdb
+C:\Users\ardaberk.duzgun\documents\visual studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Dal.pdb
+C:\Users\ardaberk.duzgun\Documents\Visual Studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\csc.exe.config
+C:\Users\ardaberk.duzgun\Documents\Visual Studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\csc.rsp
+C:\Users\ardaberk.duzgun\Documents\Visual Studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\csi.exe
+C:\Users\ardaberk.duzgun\Documents\Visual Studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\csi.rsp
+C:\Users\ardaberk.duzgun\Documents\Visual Studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ardaberk.duzgun\Documents\Visual Studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ardaberk.duzgun\Documents\Visual Studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ardaberk.duzgun\Documents\Visual Studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ardaberk.duzgun\Documents\Visual Studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\System.AppContext.dll
+C:\Users\ardaberk.duzgun\Documents\Visual Studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ardaberk.duzgun\Documents\Visual Studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ardaberk.duzgun\Documents\Visual Studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ardaberk.duzgun\Documents\Visual Studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\vbc.exe.config
+C:\Users\ardaberk.duzgun\Documents\Visual Studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\vbc.rsp
+C:\Users\ardaberk.duzgun\Documents\Visual Studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ardaberk.duzgun\Documents\Visual Studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ardaberk.duzgun\Documents\Visual Studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ardaberk.duzgun\Documents\Visual Studio 2015\Projects\OfficeStockManagement\OfficeStock.Portal\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\obj\Debug\OfficeStock.Portal.csprojResolveAssemblyReference.cache
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\ApplicationInsights.config
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Portal.dll.config
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Portal.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Portal.pdb
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\csc.exe
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\csc.exe.config
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\csc.rsp
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\csi.exe
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\csi.rsp
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\System.AppContext.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\vbc.exe
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\vbc.exe.config
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\vbc.rsp
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\VBCSCompiler.exe
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Antlr3.Runtime.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\EntityFramework.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\EntityFramework.SqlServer.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\LinqKit.EntityFramework.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.Web.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Newtonsoft.Json.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Bll.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Common.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Dal.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Entity.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Owin.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.Helpers.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.Mvc.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.Optimization.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.Razor.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.WebPages.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.WebPages.Razor.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\WebGrease.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Bll.pdb
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Common.pdb
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Dal.pdb
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Entity.pdb
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Antlr3.Runtime.pdb
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\EntityFramework.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\EntityFramework.SqlServer.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\LinqKit.EntityFramework.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.Web.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\Newtonsoft.Json.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.Helpers.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.Mvc.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.Razor.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.WebPages.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.WebPages.Razor.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.Optimization.xml
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\obj\Debug\OfficeStock.Portal.dll
+C:\Users\ardaberk.duzgun\Downloads\OfficeStockManagementv3\OfficeStockManagement\OfficeStock.Portal\obj\Debug\OfficeStock.Portal.pdb
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\ApplicationInsights.config
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Portal.dll.config
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Portal.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Portal.pdb
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\csc.exe
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\csc.exe.config
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\csc.rsp
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\csi.exe
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\csi.rsp
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\System.AppContext.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\vbc.exe
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\vbc.exe.config
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\vbc.rsp
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\VBCSCompiler.exe
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Antlr3.Runtime.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\EntityFramework.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\EntityFramework.SqlServer.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\LinqKit.EntityFramework.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.Web.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Newtonsoft.Json.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Bll.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Common.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Dal.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Entity.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Owin.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.Helpers.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.Mvc.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.Optimization.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.Razor.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.WebPages.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.WebPages.Razor.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\WebGrease.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Bll.pdb
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Bll.dll.config
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Common.pdb
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Common.dll.config
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Dal.pdb
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Dal.dll.config
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Entity.pdb
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Entity.dll.config
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Antlr3.Runtime.pdb
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\EntityFramework.xml
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\EntityFramework.SqlServer.xml
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\LinqKit.EntityFramework.xml
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.Web.xml
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.xml
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.xml
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\Newtonsoft.Json.xml
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.Helpers.xml
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.Mvc.xml
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.Razor.xml
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.WebPages.xml
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.WebPages.Razor.xml
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.Optimization.xml
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\obj\Debug\OfficeStock.Portal.csprojResolveAssemblyReference.cache
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\obj\Debug\OfficeStock.Portal.csproj.CoreCompileInputs.cache
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\obj\Debug\OfficeStock.Portal.dll
+C:\Users\ardaberk\Desktop\OfficeStockManagement\OfficeStock.Portal\obj\Debug\OfficeStock.Portal.pdb
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\ApplicationInsights.config
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Portal.dll.config
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Portal.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Portal.pdb
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\csc.exe
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\csc.exe.config
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\csc.rsp
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\csi.exe
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\csi.rsp
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\System.AppContext.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\vbc.exe
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\vbc.exe.config
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\vbc.rsp
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\VBCSCompiler.exe
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Antlr3.Runtime.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\EntityFramework.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\EntityFramework.SqlServer.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\LinqKit.EntityFramework.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.Web.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Newtonsoft.Json.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Bll.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Common.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Dal.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Entity.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Owin.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.Helpers.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.Mvc.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.Optimization.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.Razor.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.WebPages.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.WebPages.Razor.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\WebGrease.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Bll.pdb
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Bll.dll.config
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Common.pdb
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Common.dll.config
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Dal.pdb
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Dal.dll.config
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Entity.pdb
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\OfficeStock.Entity.dll.config
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Antlr3.Runtime.pdb
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\EntityFramework.xml
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\EntityFramework.SqlServer.xml
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\LinqKit.EntityFramework.xml
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.Web.xml
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.xml
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.xml
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\Newtonsoft.Json.xml
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.Helpers.xml
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.Mvc.xml
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.Razor.xml
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.WebPages.xml
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.WebPages.Razor.xml
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\bin\System.Web.Optimization.xml
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\obj\Debug\OfficeStock.Portal.csprojResolveAssemblyReference.cache
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\obj\Debug\OfficeStock.Portal.csproj.CoreCompileInputs.cache
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\obj\Debug\OfficeStock.Portal.dll
+C:\Users\ardaberk\Desktop\masaustu\New folder (3)\OfficeStockManagement\OfficeStock.Portal\obj\Debug\OfficeStock.Portal.pdb

@@ -1,0 +1,46 @@
+﻿@model OfficeStock.Entity.Location
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Lokasyon Oluşturma</h2>
+
+<form action="/Location/Create" method="post">
+    <div class="form-horizontal">
+   
+        <hr />
+        <div class="form-group">
+            <label for="Description" class="control-label col-md-2">Lokasyon İsmi</label>
+            <div class="col-md-10">
+                <input type="text" name="Name" class="form-control" />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="Description" class="control-label col-md-2">Lokasyon Açıklaması</label>
+            <div class="col-md-10">
+                <input type="text" name="Description" class="form-control" />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="ParentId" class="control-label col-md-2">LokasyonParentId</label>
+            
+            <div class="col-md-10">
+                <input type="text" name="ParentId" class="form-control" />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Ekle" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+</form>
+
+<div>
+    <a href="/Location">Listeye Geri Dön</a>
+</div>

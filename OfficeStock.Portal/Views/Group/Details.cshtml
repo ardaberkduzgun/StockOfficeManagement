@@ -1,0 +1,37 @@
+﻿@model OfficeStock.Entity.Group
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Group</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Grup İsmi
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            Grup Kodu
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GroupCode)
+        </dd>
+        
+
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Düzenle", "Update", new { id = Model.Id }) |
+    @Html.ActionLink("Listeye Dön", "Index")
+</p>

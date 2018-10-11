@@ -1,0 +1,90 @@
+﻿
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container body-content">
+
+
+    <script src="/Scripts/jstree.js"></script>
+    <script src="~/Scripts/lokasyonjs.js"></script>
+
+    <h2>Lokasyon Bilgileri</h2>
+    <div id="divLocationModal" class="modal fade" data-backdrop="static" data-keyboard="false">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" onclick="HideModal('divLocationModal');" aria-hidden="true"></button>
+                    <h4 class="modal-title">Lokasyon Yönet</h4>
+                </div>
+                <form id="frmLocation" action="/Location/Create" class="form-horizontal form-bordered" role="form">
+                    <div class="modal-body">
+                        <div class="portlet-body form">
+
+                            <input id="hfId" name="Id" value="" type="hidden">
+                            <input id="hfParentId" name="ParentId" value="" type="hidden">
+                            <div class="form-body">
+                                <div class="form-group" id="divParentLocationName" style="display: none;">
+                                    <label class="control-label col-md-3">Üst Birim Adı</label>
+                                    <div class="col-md-9">
+                                        <input id="txtParentLocationName" class="form-control" disabled="disabled" type="text">
+                                        <span class="help-block">Eklenecek/güncellenecek birimin bağlı olduğu üst birim adı</span>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="control-label col-md-3">Lokasyon İsmi<span class="required">*</span></label>
+                                    <div class="col-md-9 validation">
+                                        <input class="form-control" id="txtName" name="Name" type="text" />
+                                        <span class="help-block">Eklemek/güncellemek istediğiniz lokasyon adıdır</span>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="control-label col-md-3">Lokasyon Açıklaması<span class="required">*</span></label>
+                                    <div class="col-md-9 validation">
+                                        <input class="form-control" name="Description" id="txtDescription" type="text" />
+                                        <span class="help-block">Eklemek/güncellemek istediğiniz lokasyon açıklamasıdır</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" onclick="HideModal('divLocationModal');" class="btn default">Kapat</button>
+                        <button type="submit" class="btn green">Kaydet</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="portlet light bordered">
+        <div class="portlet-title">
+            <div class="caption font-blue-steel">
+                <i class="fa fa-sitemap font-blue-steel"></i>
+               <!-- <span class="caption-subject bold uppercase">Lokasyon</span>-->  
+              <!--<span class="caption-helper">Zimmet yeri lokasyon bilgileri</span>-->  
+            </div>
+            <div class="actions">
+            </div>
+        </div>
+        <div class="portlet-body">
+            <a id="btnUpdateSequence" style="display: none;" href="javascript:UpdateSequence();" class="btn yellow btn-sm"><i class="fa fa-sort-alpha-desc"></i>Sıralamayı Kaydet</a>
+            <a id="btnInsertRootLocation" href="javascript:AddNormalLocation();" class="btn red btn-sm"><i class="btn green btn-sm"></i>Lokasyon Ekle</a>
+            <a id="btnSubLocation" style="display: none;" href="javascript:AddUnderLocation();" class="btn purple btn-sm"><i class="fa fa-plus"></i>Alt Lokasyon Ekle</a>
+            <a id="btnUpdateLocation" style="display: none;" href="javascript:UpdateLocation();" class="btn blue btn-sm"><i class="fa fa-refresh"></i>Güncelle</a>
+            <a id="btnDeleteLocation" style="display: none;" href="javascript:DeleteLocation();" class="btn red btn-sm"><i class="fa fa-trash"></i>Sil</a>
+            <div class="clearfix"></div>
+            <div class="alert alert-info" style="margin-top:10px;">
+                <strong>Dikkat!</strong> İşlem yapmak istediğiniz birimi seçtikten sonra üst kısımda yer alan menüden işlem yapabilirsiniz.
+            </div>
+            <div id="divLocationTree" class="tree-demo jstree jstree-2 jstree-default" role="tree">
+            </div>
+        </div>
+    </div>
+    <a href="/Location/List">Listeye Bak</a>
+
+    <hr />
+
+</div>
+

@@ -1,0 +1,54 @@
+﻿@model IEnumerable<OfficeStock.Entity.Location>
+
+@{
+    ViewBag.Title = "List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Lokasyonlar</h2>
+
+<p>
+    @Html.ActionLink("Yeni Oluştur", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Id)
+        </th>
+        <th>
+           Lokasyon
+        </th>
+        <th>
+            Açıklama
+        </th>
+        <th>
+            Ebevyn Id
+        </th>
+        
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ParentId)
+        </td>
+      
+        <td>
+            @Html.ActionLink("Düzenle", "Updatee", new { id=item.Id }) |
+            @Html.ActionLink("Detaylar", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Sil", "Deletee", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>
